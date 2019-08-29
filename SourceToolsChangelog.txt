@@ -1,0 +1,88 @@
+Source Tools Changelog
+
+2019 Kirchner Solutions
+
+
+08/28/2019
+1.0.13a
+Build 100411
+    Optimization.
+    Bug fixes.
+
+08/16/2019
+1.0.12a
+Build 100409
+    Added String Encryption function.
+Build 100410
+    Fixed file hash output bug.
+
+08/09/2019
+1.0.11a
+Build 100408
+    Added replace with default access modifier option.
+    Fixed delete file structure bug.
+    Added append options to replace menu.
+
+08/08/2019
+1.0.10a
+Build 100407
+    AES bug fix.
+
+08/07/2019
+1.0.09a
+Build 100406
+    Optimization.
+    File structure fixes.
+
+08/06/2019
+1.0.08a
+Build 100405
+    Optimization.
+    Bug fixes.
+
+07/30/2019
+1.0.07a
+Build 100404
+	Added Serial methods.
+	Finished RSA imp.
+
+07/28/2019
+1.0.06a
+Build 100402
+	Fixed bug where sometimes some user input was skipped.
+Build 100403
+	Started RSA imp.
+	Added Serial methods.
+
+07/21/2019
+1.0.05a
+Build 100401
+	Added encoding to Encryption/Decryption.
+
+07/14/2019
+1.0.04a
+Build 100400
+	Fixed search bug.
+
+07/09/2019
+1.0.03a:
+Build 10300
+	Added Base64 decoding.
+Build 10301
+	Added AES Encryption, Decryption, Keygenerator.
+	Added Search.
+
+07/07/2019
+1.0.02a:
+Build 10200
+	Added Delete Functions.
+	Added Base64 encoding of source dir.
+
+07/05/2019
+1.0.01a:
+Build 10100
+	Added Set Source Directory.
+	Added Set Output Directory.
+Build 10101
+	Added Replace Line Containing.
+	Seperated Replace functions to sub menu.
